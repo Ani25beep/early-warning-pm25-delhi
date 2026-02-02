@@ -82,7 +82,7 @@ All indicators are computed using fixed rolling windows.
 
 ## Repository contents
 
-- `early_warning_pm25.ipynb` – complete analysis notebook
+- `early-warning-pm25.ipynb` – complete analysis notebook
 
 ---
 
